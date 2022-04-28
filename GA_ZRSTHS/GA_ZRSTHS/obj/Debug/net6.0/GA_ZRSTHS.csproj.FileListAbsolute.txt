@@ -1,0 +1,15 @@
+C:\Users\kovag\source\repos\GA_ZRSTHS\GA_ZRSTHS\obj\Debug\net6.0\GA_ZRSTHS.csproj.AssemblyReference.cache
+C:\Users\kovag\source\repos\GA_ZRSTHS\GA_ZRSTHS\obj\Debug\net6.0\GA_ZRSTHS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kovag\source\repos\GA_ZRSTHS\GA_ZRSTHS\obj\Debug\net6.0\GA_ZRSTHS.AssemblyInfoInputs.cache
+C:\Users\kovag\source\repos\GA_ZRSTHS\GA_ZRSTHS\obj\Debug\net6.0\GA_ZRSTHS.AssemblyInfo.cs
+C:\Users\kovag\source\repos\GA_ZRSTHS\GA_ZRSTHS\obj\Debug\net6.0\GA_ZRSTHS.csproj.CoreCompileInputs.cache
+C:\Users\kovag\source\repos\GA_ZRSTHS\GA_ZRSTHS\bin\Debug\net6.0\GA_ZRSTHS.exe
+C:\Users\kovag\source\repos\GA_ZRSTHS\GA_ZRSTHS\bin\Debug\net6.0\GA_ZRSTHS.deps.json
+C:\Users\kovag\source\repos\GA_ZRSTHS\GA_ZRSTHS\bin\Debug\net6.0\GA_ZRSTHS.runtimeconfig.json
+C:\Users\kovag\source\repos\GA_ZRSTHS\GA_ZRSTHS\bin\Debug\net6.0\GA_ZRSTHS.dll
+C:\Users\kovag\source\repos\GA_ZRSTHS\GA_ZRSTHS\bin\Debug\net6.0\GA_ZRSTHS.pdb
+C:\Users\kovag\source\repos\GA_ZRSTHS\GA_ZRSTHS\obj\Debug\net6.0\GA_ZRSTHS.dll
+C:\Users\kovag\source\repos\GA_ZRSTHS\GA_ZRSTHS\obj\Debug\net6.0\refint\GA_ZRSTHS.dll
+C:\Users\kovag\source\repos\GA_ZRSTHS\GA_ZRSTHS\obj\Debug\net6.0\GA_ZRSTHS.pdb
+C:\Users\kovag\source\repos\GA_ZRSTHS\GA_ZRSTHS\obj\Debug\net6.0\GA_ZRSTHS.genruntimeconfig.cache
+C:\Users\kovag\source\repos\GA_ZRSTHS\GA_ZRSTHS\obj\Debug\net6.0\ref\GA_ZRSTHS.dll
