@@ -1,0 +1,2 @@
+# GA_ZRSTHS
+Készítsen el .Net C# programozási nyelven egy programot, mely genetikus algoritmus alkalmazásával megfelelő megoldásokat keres az a2+b2+c2+d2=49 négy ismeretlenes egyenlethez. Az alapfeladat megoldása után a talált eredményeket gyűjtse össze egy tömbben és vegye rá az algoritmust új megoldások keresésére. Használja a Genetikus.cs és a Program.cs forrásokat a feladat megoldásához. További részletek és segítség a forrás programokban megtalálható.
